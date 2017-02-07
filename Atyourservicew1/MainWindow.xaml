@@ -1,0 +1,76 @@
+﻿<Window x:Class="MindstormsControlPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MindstormsControlPanel"
+        mc:Ignorable="d"
+        KeyDown="KeyPress"
+    Title="Mindstorms Controle Paneel" MinHeight="500" MinWidth="525" Height="500" Width="525" MaxHeight="500" MaxWidth="525" Loaded="Window_Loaded" Icon="Favicon.ico" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" Cursor="Arrow">
+
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="FontSize" Value="32" />
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="32" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="119*"/>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="139*"/>
+            <ColumnDefinition Width="112*"/>
+        </Grid.ColumnDefinitions>
+        <Button FontFamily="WingDings" Click="ForwardButton_Click" Content="á" HorizontalAlignment="Left" Margin="115,10,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.5,0.5" Style="{DynamicResource ButtonStyle}" Height="35" Grid.Column="1" Grid.ColumnSpan="2">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button FontFamily="WingDings" Click="BackwardButton_Click" Content="â" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.5,0.5" Style="{DynamicResource ButtonStyle}" Height="35" Grid.Column="1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button FontFamily="WingDings" Click="LeftButton_Click" Content="ß" HorizontalAlignment="Left" Margin="70,10,0,0" VerticalAlignment="Top" Width="80" Style="{DynamicResource ButtonStyle}" Grid.Column="5" RenderTransformOrigin="0.5,0.5" Height="35" Grid.ColumnSpan="2">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button FontFamily="WingDings" Click="RightButton_Click" Content="à" HorizontalAlignment="Left" Margin="15,10,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.459,0.514" Style="{DynamicResource ButtonStyle}" Grid.Column="4" Height="35" Grid.ColumnSpan="2">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform X="6.97" Y="-0.98"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="4,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="4" Height="43" Width="0"/>
+        <TextBlock x:Name="txtDistance" HorizontalAlignment="Left" Margin="45,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="5" Height="43" Width="114" Grid.ColumnSpan="2"><Run Text="Range"/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="button" Click="Fire_Click" Content="&#xD;&#xA;Fire" Grid.Column="6" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="85" Style="{DynamicResource ButtonStyle}" Height="404"/>
+        <CheckBox x:Name="checkBox" Click="checkBox_SpeedHacks" Content="Speed Hacks" Grid.Column="5" HorizontalAlignment="Left" Margin="129,429,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="120"/>
+
+
+    </Grid>
+</Window>

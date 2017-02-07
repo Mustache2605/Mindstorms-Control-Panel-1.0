@@ -1,0 +1,53 @@
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\Atyourservicew1.exe.config
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\Atyourservicew1.exe
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\Atyourservicew1.pdb
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\Lego.Ev3.Desktop.dll
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\Lego.Ev3.Desktop.xml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.csprojResolveAssemblyReference.cache
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\MainWindow.g.cs
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\App.g.cs
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1_MarkupCompile.cache
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1_MarkupCompile.lref
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\MainWindow.baml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.g.resources
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.Properties.Resources.resources
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.csproj.GenerateResource.Cache
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.exe
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.pdb
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\bin\Debug\WPFToolkit.dll
+c:\users\darkscout v2\documents\visual studio 2015\Projects\Atyourservicew1\Atyourservicew1\obj\Debug\App.baml
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\Lego.Ev3.Desktop.dll
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\WPFToolkit.dll
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\Lego.Ev3.Desktop.xml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.csprojResolveAssemblyReference.cache
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MainWindow.g.cs
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\App.g.cs
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\App.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MainWindow.baml
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\Atyourservicew1.csproj.GenerateResource.Cache
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel.Properties.Resources.resources
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\MindstormsControlPanel.exe.config
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel_MarkupCompile.cache
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel_MarkupCompile.lref
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\MindstormsControlPanel.exe
+F:\Atyourservicew1\Atyourservicew1\bin\Debug\MindstormsControlPanel.pdb
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel.g.resources
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel.exe
+F:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel.pdb
+E:\Atyourservicew1\Atyourservicew1\bin\Debug\MindstormsControlPanel.exe.config
+E:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel.exe
+E:\Atyourservicew1\Atyourservicew1\obj\Debug\MindstormsControlPanel.pdb
