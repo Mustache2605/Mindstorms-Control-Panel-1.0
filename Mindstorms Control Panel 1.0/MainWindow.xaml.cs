@@ -12,6 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Lego.Ev3.Core;
+using Lego.Ev3.Desktop;
+using System.Diagnostics;
 
 namespace Mindstorms_Control_Panel_1._0
 {
